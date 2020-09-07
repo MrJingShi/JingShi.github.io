@@ -55,3 +55,10 @@ Sep.2014 - Jul.2018   BSc., Resource Prospecting Engineering, School of Geoscien
 
 7. China National Scholarship (2015)
 ``` 
+
+**Email**: shij@smail.nju.edu.cn 
+
+**Tel**:  86 - 18851855958
+
+
+**Add**: School of Earth Sciences and Engineering, Nanjing University, 163 Xianlin Avenue, Nanjing 210023, China
