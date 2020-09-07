@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+## Welcome to the homepage of Jing Shi.
 
-You can use the [editor on GitHub](https://github.com/MrJingShi/JingShi.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Research Interests
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+1. Using receiver function velocity analysis technique to study the Earth's deep interior without 
+   the interference of multiples. 
+   
+2. Exploring new methods to research the Moon's deep interior.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Education
+```markdown
+Sep.2020 -            PhD., Geophysics, School of Geoscience and Engineering, 
+                      Nanjing University, China
 
-### Jekyll Themes
+Sep.2018 - Jul.2020   MSc., Geophysics, School of Geoscience and Engineering, 
+                      Nanjing University, China
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MrJingShi/JingShi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Sep.2014 - Jul.2018   BSc., Resource Prospecting Engineering, School of Geoscience and Technology, 
+                      Southwest Petroleum University, China
+```
 
-### Support or Contact
+### Publications (First author or corresponding author):
+```markdown
+1. Shi, J., Wang, T., & Chen, L. (2020).Receiver function velocity analysistechnique and its application 
+   to removemultiples. Journal of GeophysicalResearch: Solid Earth, 125,e2020JB019420. 
+   https://doi.org/10.1029/2020JB019420
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+2. L. Li, J. Shi*, Y. Kang, J. Duan and P. Sun, An Indoor Positioning Research Based On The Least Square 
+   Method Of Monte Carlo, 2018 Ubiquitous Positioning, Indoor Navigation and Location-Based Services (UPINLBS), 
+   Wuhan, 2018, pp. 1-6. doi: 10.1109/UPINLBS.2018.8559944
+```
+
+### Patent:
+```markdown
+1. L. Li, J. Shi, J. Duan and Y. Kang. An Indoor Positioning model And Its Construction Method And Application 
+   Based On The Least Square Method Of Monte Carlo [P]. Sichuan：CN107786939B,2020-08-14.
+```   
+
+### Honors (National and provincial level):
+```markdown
+1. Li Siguang outstanding student nomination award (2018) 
+
+2. Outstanding graduate of Sichuan province (2018)
+
+3. Comprehensive quality "A level certificate" of Sichuan province college students (2018)
+
+4. National third prize, National Petroleum Geology Competition (2017)
+
+5. National third prize, National Exploration Geophysics Competition for College Students (2017)
+
+6. National second prize, China Undergraduate Mathematical Contest in Model (2016)
+
+7. China National Scholarship (2015)
+``` 
