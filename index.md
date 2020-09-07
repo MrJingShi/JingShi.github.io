@@ -11,7 +11,7 @@
                      Nanjing 210023, China</b></p>
     </td>
     <td width="25%">
-      <img src="/Photo.jpg" width="100%">     
+      <img src="/photo1.jpg" width="100%">     
     </td>
   </tr>
 </table>
