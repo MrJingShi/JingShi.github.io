@@ -1,21 +1,7 @@
 ## Welcome to the homepage of Jing Shi.
 
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h1>Jing Shi</h1>
-      <p><b>Email: shij@smail.nju.edu.cn</b></p>
-      <p><b>Tel:  86 - 18851855958</b></p>
-      <p><b>Add：School of Earth Sciences and Engineering, 
-                     Nanjing University, 163 Xianlin Avenue, 
-                     Nanjing 210023, China</b></p>
-    </td>
-    <td width="25%">
-      <img src="./photo.jpg" width="100%">     
-    </td>
-  </tr>
-</table>
 
+<img src="./photo.jpg" width = "155" height = "210" div align=center />
 
 ### Research Interests
 ```markdown
@@ -70,4 +56,12 @@ Sep.2014 - Jul.2018   BSc., Resource Prospecting Engineering, School of Geoscien
 
 7. China National Scholarship (2015)
 ``` 
+
+**Email**: shij@smail.nju.edu.cn
+
+**Tel**:  86 - 18851855958
+
+**Add**：School of Earth Sciences and Engineering, 
+                     Nanjing University, 163 Xianlin Avenue, 
+                     Nanjing 210023, China
 
