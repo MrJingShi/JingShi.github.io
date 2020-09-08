@@ -1,7 +1,7 @@
 ## Welcome to the homepage of Jing Shi.
 
 
-<img src="./photo.jpg" width = "155" height = "210" div align=center />
+<img src="./photo.jpg" width = "145" height = "210" div align=center />
 
 ### Research Interests
 ```markdown
