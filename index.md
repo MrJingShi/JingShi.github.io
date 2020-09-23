@@ -3,7 +3,7 @@
 
 <img src="./photo.jpg" width = "145" height = "210" div align=center />
 
-### Research Interests
+### Research Interests:
 ```markdown
 1. Using receiver function velocity analysis technique to study the Earth's deep interior without 
    the interference of multiples. 
@@ -11,7 +11,7 @@
 2. Exploring new methods to research the Moon's deep interior.
 ```
 
-### Education
+### Education:
 ```markdown
 Sep.2020 -            PhD., Geophysics, School of Geoscience and Engineering, 
                       Nanjing University, China
@@ -23,7 +23,7 @@ Sep.2014 - Jul.2018   BSc., Resource Prospecting Engineering, School of Geoscien
                       Southwest Petroleum University, China
 ```
 
-### Publications (First author or corresponding author):
+### Publications (First Author or Corresponding Author):
 ```markdown
 1. Shi, J., Wang, T., & Chen, L. (2020).Receiver function velocity analysistechnique and its application 
    to removemultiples. Journal of GeophysicalResearch: Solid Earth, 125,e2020JB019420. 
@@ -40,21 +40,28 @@ Sep.2014 - Jul.2018   BSc., Resource Prospecting Engineering, School of Geoscien
    Based On The Least Square Method Of Monte Carlo [P]. Sichuan：CN107786939B,2020-08-14.
 ```   
 
-### Honors (National and provincial level):
+### Honors (National and Provincial Level):
 ```markdown
 1. Li Siguang outstanding student nomination award (2018) 
+   (李四光优秀学生奖提名)
 
 2. Outstanding graduate of Sichuan province (2018)
+  （四川省优秀毕业生）
 
 3. Comprehensive quality "A level certificate" of Sichuan province college students (2018)
+  （四川省大学生综合素质“A”级证书）
 
 4. National third prize, National Petroleum Geology Competition (2017)
-
+  （全国石油地质大赛三等奖）
+   
 5. National third prize, National Exploration Geophysics Competition for College Students (2017)
+  （全国大学生勘探地球物理大赛三等奖）
 
 6. National second prize, China Undergraduate Mathematical Contest in Model (2016)
+   (全国大学生数学建模大赛全国二等奖)
 
 7. China National Scholarship (2015)
+  （国家奖学金）
 ``` 
 
 **Email**: shij@smail.nju.edu.cn
