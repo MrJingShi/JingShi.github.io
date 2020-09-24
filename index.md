@@ -26,7 +26,7 @@ Sep.2014 - Jul.2018   BSc., Resource Prospecting Engineering, School of Geoscien
 ### Publications (First Author or Corresponding Author):
 ```markdown
 1. Shi, J., Wang, T., & Chen, L. (2020).Receiver function velocity analysistechnique and its application 
-   to removemultiples. Journal of GeophysicalResearch: Solid Earth, 125,e2020JB019420. 
+   to removemultiples. Journal of Geophysical Research: Solid Earth, 125,e2020JB019420. 
    https://doi.org/10.1029/2020JB019420
 
 2. L. Li, J. Shi*, Y. Kang, J. Duan and P. Sun, An Indoor Positioning Research Based On The Least Square 
