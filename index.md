@@ -15,9 +15,11 @@
 ```markdown
 Sep.2020 -            PhD., Geophysics, School of Geoscience and Engineering, 
                       Nanjing University, China
+                      Advisor: [Tao Wang](https://es.nju.edu.cn/wt/list.htm), Associate professor
 
 Sep.2018 - Jul.2020   MSc., Geophysics, School of Geoscience and Engineering, 
                       Nanjing University, China
+                      Advisor: Tao Wang, Associate professor
 
 Sep.2014 - Jul.2018   BSc., Resource Prospecting Engineering, School of Geoscience and Technology, 
                       Southwest Petroleum University, China
@@ -31,13 +33,13 @@ First Author or Corresponding Author:
    to removemultiples. Journal of Geophysical Research: Solid Earth, 125,e2020JB019420. 
    https://doi.org/10.1029/2020JB019420
 
-2. L. Li, J. Shi, Y. Kang, J. Duan and P. Sun, An Indoor Positioning Research Based On The Least Square 
+2. L. Li, J. Shi*, Y. Kang, J. Duan and P. Sun, An Indoor Positioning Research Based On The Least Square 
    Method Of Monte Carlo, 2018 Ubiquitous Positioning, Indoor Navigation and Location-Based Services (UPINLBS), 
    Wuhan, 2018, pp. 1-6. doi: 10.1109/UPINLBS.2018.8559944
    
 Other publications:
 
-1. Xu,Z., Wang T., Xu, S.H., Wang, B.S., Feng, X.P., _Shi, J. and Yang, M.H., 2019, Active source seismic identification
+1. Xu,Z., Wang T., Xu, S.H., Wang, B.S., Feng, X.P., Shi, J. and Yang, M.H., 2019, Active source seismic identification
    and automatic picking of P-wave first arrival using convolutional neural network, Earthquake research in China,
    doi: 10.19743/j.cnki.0891-4176.201902014
 ```
