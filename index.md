@@ -24,7 +24,7 @@ Sep.2014 - Jul.2018   BSc., Resource Prospecting Engineering, School of Geoscien
 ```
 
 ### Publications :
-(First Author or Corresponding Author)
+#First Author or Corresponding Author:
 ```markdown
 1. __Shi, J.,__ Wang, T., & Chen, L. (2020).Receiver function velocity analysistechnique and its application 
    to removemultiples. Journal of Geophysical Research: Solid Earth, 125,e2020JB019420. 
@@ -34,7 +34,7 @@ Sep.2014 - Jul.2018   BSc., Resource Prospecting Engineering, School of Geoscien
    Method Of Monte Carlo, 2018 Ubiquitous Positioning, Indoor Navigation and Location-Based Services (UPINLBS), 
    Wuhan, 2018, pp. 1-6. doi: 10.1109/UPINLBS.2018.8559944
 ```
-(Other publications)
+#Other publications:
 ```markdown
 1. Xu,Z., Wang T., Xu, S.H., Wang, B.S., Feng, X.P., __Shi, J.__ and Yang, M.H., 2019, Active source seismic identification
    and automatic picking of P-wave first arrival using convolutional neural network, Earthquake research in China,
