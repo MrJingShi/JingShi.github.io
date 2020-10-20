@@ -12,7 +12,7 @@
 ```
 
 ### Education:
-```markdown
+```html
 Sep.2020 -            PhD., Geophysics, School of Geoscience and Engineering, 
                       Nanjing University, China
                       
