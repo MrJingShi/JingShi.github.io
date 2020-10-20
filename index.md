@@ -12,6 +12,7 @@
 ```
 
 ### Education:
+  ```markdown
 Sep.2020 -            PhD., Geophysics, School of Geoscience and Engineering, 
                       Nanjing University, China
                       Advisor: 
@@ -22,11 +23,12 @@ Sep.2020 -            PhD., Geophysics, School of Geoscience and Engineering,
 Sep.2018 - Jul.2020   MSc., Geophysics, School of Geoscience and Engineering, 
                       Nanjing University, China
                       Advisor: 
-                      [Tao Wang](https://es.nju.edu.cn/wt/list.htm)
+                      [Tao Wang](https://es.nju.edu.cn/wt/list.htm), Associate professor
                       [Ling Chen](http://sourcedb.igg.cas.cn/cn/zjrck/200907/t20090713_2065480.html), Research professorship
 
 Sep.2014 - Jul.2018   BSc., Resource Prospecting Engineering, School of Geoscience and Technology, 
                       Southwest Petroleum University, China
+```
 
 
 ### Publications :
