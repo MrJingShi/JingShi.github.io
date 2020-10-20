@@ -12,7 +12,6 @@
 ```
 
 ### Education:
-```javascript
 Sep.2020 -            PhD., Geophysics, School of Geoscience and Engineering, 
                       Nanjing University, China
                       Advisor: 
@@ -28,7 +27,7 @@ Sep.2018 - Jul.2020   MSc., Geophysics, School of Geoscience and Engineering,
 
 Sep.2014 - Jul.2018   BSc., Resource Prospecting Engineering, School of Geoscience and Technology, 
                       Southwest Petroleum University, China
-```
+
 
 ### Publications :
 ```markdown
