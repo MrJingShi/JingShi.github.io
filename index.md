@@ -16,15 +16,15 @@
 Sep.2020 -            PhD., Geophysics, School of Geoscience and Engineering, 
                       Nanjing University, China
                       
-Advisor:              Tao Wang, Associate professor
-                      Ling Chen, Research professorship
-                      Yong Chen, Academicians
+Advisor:              Tao Wang, Associate professor, Nanjing university
+                      Ling Chen, Research professorship，Institue of geology and geophysics, Chinese academy of science
+                      Yong Chen, Academicians, Nanjing university
 
 Sep.2018 - Jul.2020   MSc., Geophysics, School of Geoscience and Engineering, 
                       Nanjing University, China
                       
-Advisor:              Tao Wang, Associate professor
-                      Ling Chen, Research professorship
+Advisor:              Tao Wang, Associate professor, Nanjing university
+                      Ling Chen, Research professorship，Institue of geology and geophysics, Chinese academy of science
 
 Sep.2014 - Jul.2018   BSc., Resource Prospecting Engineering, School of Geoscience and Technology, 
                       Southwest Petroleum University, China
