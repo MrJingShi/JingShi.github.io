@@ -12,12 +12,11 @@
 ```
 
 ### Education:
-```html
+```markdown
 Sep.2020 -            PhD., Geophysics, School of Geoscience and Engineering, 
                       Nanjing University, China
                       
 Advisor:              Tao Wang, Associate professor
-<a href="https://es.nju.edu.cn/wt/list.htm">Tao Wang</a>
                       Ling Chen, Research professorship
                       Yong Chen, Academicians
 
