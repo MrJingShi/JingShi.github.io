@@ -36,7 +36,7 @@ Sep.2014 - Jul.2018   BSc., Resource Prospecting Engineering, School of Geoscien
 ```
 (Other publications)
 ```markdown
-1. Xu,Z., Wang T., Xu, S.H., Wang, B.S., Feng, X.P., **Shi, J**. and Yang, M.H., 2019, Active source seismic identification
+1. Xu,Z., Wang T., Xu, S.H., Wang, B.S., Feng, X.P., <p>Shi, J.</p> and Yang, M.H., 2019, Active source seismic identification
    and automatic picking of P-wave first arrival using convolutional neural network, Earthquake research in China,
    doi: 10.19743/j.cnki.0891-4176.201902014
 ```
