@@ -26,11 +26,11 @@ Sep.2014 - Jul.2018   BSc., Resource Prospecting Engineering, School of Geoscien
 ### Publications :
 (First Author or Corresponding Author)
 ```markdown
-1. **Shi, J.,** Wang, T., & Chen, L. (2020).Receiver function velocity analysistechnique and its application 
+1. __Shi, J.,__ Wang, T., & Chen, L. (2020).Receiver function velocity analysistechnique and its application 
    to removemultiples. Journal of Geophysical Research: Solid Earth, 125,e2020JB019420. 
    https://doi.org/10.1029/2020JB019420
 
-2. L. Li, **J. Shi**, Y. Kang, J. Duan and P. Sun, An Indoor Positioning Research Based On The Least Square 
+2. L. Li, __J. Shi__, Y. Kang, J. Duan and P. Sun, An Indoor Positioning Research Based On The Least Square 
    Method Of Monte Carlo, 2018 Ubiquitous Positioning, Indoor Navigation and Location-Based Services (UPINLBS), 
    Wuhan, 2018, pp. 1-6. doi: 10.1109/UPINLBS.2018.8559944
 ```
