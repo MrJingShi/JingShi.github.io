@@ -10,13 +10,14 @@
    
 2. Exploring new methods to research the Moon's deep interior.
 ```
-[Tao Wang](https://es.nju.edu.cn/wt/list.htm)
+
 ### Education:
 ```markdown
 Sep.2020 -            PhD., Geophysics, School of Geoscience and Engineering, 
                       Nanjing University, China
                       Advisor: 
-                      <[Tao Wang](https://es.nju.edu.cn/wt/list.htm)>, Associate professor`
+                      <a href="https://es.nju.edu.cn/wt/list.htm">Tao Wang</a>
+                      [Tao Wang](https://es.nju.edu.cn/wt/list.htm), Associate professor`
                       `[Ling Chen](http://sourcedb.igg.cas.cn/cn/zjrck/200907/t20090713_2065480.html), Research professorship`
                       `[Yong Chen](https://baike.baidu.com/item/陈颙/3825687?fr=aladdin), Academicians`
 
