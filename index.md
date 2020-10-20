@@ -34,7 +34,7 @@ Sep.2014 - Jul.2018   BSc., Resource Prospecting Engineering, School of Geoscien
 ```markdown
 First Author or Corresponding Author:
 
-1. [Shi, J.,] Wang, T., & Chen, L. (2020).Receiver function velocity analysis technique and its application 
+1. `Shi, J.,` Wang, T., & Chen, L. (2020).Receiver function velocity analysis technique and its application 
    to removemultiples. Journal of Geophysical Research: Solid Earth, 125,e2020JB019420. 
    https://doi.org/10.1029/2020JB019420
 
