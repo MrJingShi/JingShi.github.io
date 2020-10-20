@@ -22,6 +22,7 @@ Advisor:              Tao Wang, Associate professor
 
 Sep.2018 - Jul.2020   MSc., Geophysics, School of Geoscience and Engineering, 
                       Nanjing University, China
+                      
 Advisor:              Tao Wang, Associate professor
                       Ling Chen, Research professorship
 
