@@ -67,9 +67,11 @@ Other publications:
 ```markdown
 Languages: Mandarin Chinese, English.
 
-Coding: Python, Matlab
+Programming: Python, Matlab.
 
-Instruments: Zland 3C nodes, SmartSolo 
+Seismological Software: SAC, Obspy, Raysum, and Seispy.
+
+Instruments: Zland 3C and SmartSolo nodes.
 ``` 
 
 ### Honors (Main Achievements):
